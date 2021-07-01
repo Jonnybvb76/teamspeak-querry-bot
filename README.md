@@ -2,7 +2,7 @@
 A simple teamspeak query bot for people, who need a simple template with a own auto-reconnector.
 > **It is based on the [TeamSpeak-3-Java-API](https://github.com/TheHolyWaffle/TeamSpeak-3-Java-API.git) by [TheHolyWaffle](https://github.com/TheHolyWaffle).**
 
-## Problems
+### Problems
 There are no known problems except of **using a normal serverquery**. please use instead the one and only **serveradmin serverquerry** (got created with the **first start** of your teamspeak server). If you **forgot** your serveradmin password, [just reset it](https://support.teamspeak.com/hc/en-us/articles/360002712898-How-do-I-change-or-reset-the-password-of-the-serveradmin-Server-Query-account-).
 
 ## How i use it?
