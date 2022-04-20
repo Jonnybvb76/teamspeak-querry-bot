@@ -1,3 +1,5 @@
+> :warning: **This Project isn't updated**: There could be bugs or problems !
+
 # teamspeak-querry-bot
 A simple teamspeak query bot in java for people, who need a simple template with a own auto-reconnector.
 > **It is based on the [TeamSpeak-3-Java-API](https://github.com/TheHolyWaffle/TeamSpeak-3-Java-API.git) by [TheHolyWaffle](https://github.com/TheHolyWaffle).**
